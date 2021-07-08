@@ -16,7 +16,7 @@ for(t of s)     //of loop will traverse string letter by letter
     if(s1==s1.split('').reverse().join('')) //compare the word with its reverse
     {
     //@clashkingjeet  
-    //if true print true, palindrome is found  
+    //if true print word, palindrome is found  
       
     console.log(s1);  
     s1="";
