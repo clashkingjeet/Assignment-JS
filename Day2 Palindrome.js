@@ -27,3 +27,17 @@ for(t of s)     //of loop will traverse string letter by letter
   }
   
 }
+
+
+//OUTPUT-
+
+/*Output:
+
+madam
+hannah
+refer
+RBR
+level
+stats 
+
+*/
